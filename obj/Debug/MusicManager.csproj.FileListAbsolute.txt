@@ -1,0 +1,77 @@
+C:\Users\Javan\Documents\Visual Studio 2017\Projects\MusicManager\MusicManager\bin\Debug\MusicManager.exe.config
+C:\Users\Javan\Documents\Visual Studio 2017\Projects\MusicManager\MusicManager\bin\Debug\MusicManager.exe
+C:\Users\Javan\Documents\Visual Studio 2017\Projects\MusicManager\MusicManager\bin\Debug\MusicManager.pdb
+C:\Users\Javan\Documents\Visual Studio 2017\Projects\MusicManager\MusicManager\obj\Debug\MusicManager.csprojResolveAssemblyReference.cache
+C:\Users\Javan\Documents\Visual Studio 2017\Projects\MusicManager\MusicManager\obj\Debug\MusicManager.frmMusicManager.resources
+C:\Users\Javan\Documents\Visual Studio 2017\Projects\MusicManager\MusicManager\obj\Debug\MusicManager.frmSettings.resources
+C:\Users\Javan\Documents\Visual Studio 2017\Projects\MusicManager\MusicManager\obj\Debug\MusicManager.Properties.Resources.resources
+C:\Users\Javan\Documents\Visual Studio 2017\Projects\MusicManager\MusicManager\obj\Debug\MusicManager.csproj.GenerateResource.Cache
+C:\Users\Javan\Documents\Visual Studio 2017\Projects\MusicManager\MusicManager\obj\Debug\MusicManager.csproj.CoreCompileInputs.cache
+C:\Users\Javan\Documents\Visual Studio 2017\Projects\MusicManager\MusicManager\obj\Debug\MusicManager.exe
+C:\Users\Javan\Documents\Visual Studio 2017\Projects\MusicManager\MusicManager\obj\Debug\MusicManager.pdb
+C:\Users\speed\OneDrive\Repositories\VisualStudio\MusicManager\MusicManager\obj\Debug\MusicManager.csprojResolveAssemblyReference.cache
+C:\Users\speed\OneDrive\Repositories\VisualStudio\MusicManager\MusicManager\obj\Debug\MusicManager.frmMusicManager.resources
+C:\Users\speed\OneDrive\Repositories\VisualStudio\MusicManager\MusicManager\obj\Debug\MusicManager.frmSettings.resources
+C:\Users\speed\OneDrive\Repositories\VisualStudio\MusicManager\MusicManager\obj\Debug\MusicManager.Properties.Resources.resources
+C:\Users\speed\OneDrive\Repositories\VisualStudio\MusicManager\MusicManager\obj\Debug\MusicManager.csproj.GenerateResource.Cache
+C:\Users\speed\OneDrive\Repositories\VisualStudio\MusicManager\MusicManager\obj\Debug\MusicManager.csproj.CoreCompileInputs.cache
+C:\Users\speed\OneDrive\Repositories\VisualStudio\MusicManager\MusicManager\obj\Debug\MusicManager.exe
+C:\Users\speed\OneDrive\Repositories\VisualStudio\MusicManager\MusicManager\obj\Debug\MusicManager.pdb
+C:\Users\Javan\OneDrive\Repositories\VisualStudio\MusicManager\MusicManager\obj\Debug\MusicManager.csprojResolveAssemblyReference.cache
+C:\Users\Javan\OneDrive\Repositories\VisualStudio\MusicManager\MusicManager\obj\Debug\MusicManager.frmMusicManager.resources
+C:\Users\Javan\OneDrive\Repositories\VisualStudio\MusicManager\MusicManager\obj\Debug\MusicManager.frmSettings.resources
+C:\Users\Javan\OneDrive\Repositories\VisualStudio\MusicManager\MusicManager\obj\Debug\MusicManager.Properties.Resources.resources
+C:\Users\Javan\OneDrive\Repositories\VisualStudio\MusicManager\MusicManager\obj\Debug\MusicManager.csproj.GenerateResource.Cache
+C:\Users\Javan\OneDrive\Repositories\VisualStudio\MusicManager\MusicManager\obj\Debug\MusicManager.csproj.CoreCompileInputs.cache
+C:\Users\Javan\OneDrive\Repositories\VisualStudio\MusicManager\MusicManager\obj\Debug\MusicManager.exe
+C:\Users\Javan\OneDrive\Repositories\VisualStudio\MusicManager\MusicManager\obj\Debug\MusicManager.pdb
+C:\Users\Javan\OneDrive\Repositories\VisualStudio\MusicManager\MusicManager\bin\Debug\MusicManager.exe.config
+C:\Users\Javan\OneDrive\Repositories\VisualStudio\MusicManager\MusicManager\bin\Debug\MusicManager.exe
+C:\Users\Javan\OneDrive\Repositories\VisualStudio\MusicManager\MusicManager\bin\Debug\MusicManager.pdb
+C:\Users\Javan\OneDrive\Repositories\VisualStudio\MusicManager\MusicManager\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Javan\OneDrive\Repositories\VisualStudio\MusicManager\MusicManager\bin\Debug\taglib-sharp.dll
+C:\Users\Javan\OneDrive\Repositories\VisualStudio\MusicManager\MusicManager\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\speed\OneDrive\Repositories\VisualStudio\MusicManager\MusicManager\bin\Debug\MusicManager.exe.config
+C:\Users\speed\OneDrive\Repositories\VisualStudio\MusicManager\MusicManager\bin\Debug\MusicManager.exe
+C:\Users\speed\OneDrive\Repositories\VisualStudio\MusicManager\MusicManager\bin\Debug\MusicManager.pdb
+C:\Users\speed\OneDrive\Repositories\VisualStudio\MusicManager\MusicManager\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\speed\OneDrive\Repositories\VisualStudio\MusicManager\MusicManager\bin\Debug\taglib-sharp.dll
+C:\Users\speed\OneDrive\Repositories\VisualStudio\MusicManager\MusicManager\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Javan\OneDrive\Repositories\VisualStudio\MusicManager\MusicManager\bin\Debug\Id3.dll
+C:\Users\Javan\OneDrive\Repositories\VisualStudio\MusicManager\MusicManager\bin\Debug\Id3.pdb
+C:\Users\speed\OneDrive\Repositories\VisualStudio\MusicManager\MusicManager\bin\Debug\Id3.dll
+C:\Users\speed\OneDrive\Repositories\VisualStudio\MusicManager\MusicManager\bin\Debug\Id3.pdb
+C:\Users\Javan\OneDrive\Repositories\VisualStudio\MusicManagerV2\MusicManager\bin\Debug\MusicManager.exe.config
+C:\Users\Javan\OneDrive\Repositories\VisualStudio\MusicManagerV2\MusicManager\bin\Debug\MusicManager.exe
+C:\Users\Javan\OneDrive\Repositories\VisualStudio\MusicManagerV2\MusicManager\bin\Debug\MusicManager.pdb
+C:\Users\Javan\OneDrive\Repositories\VisualStudio\MusicManagerV2\MusicManager\bin\Debug\Id3.dll
+C:\Users\Javan\OneDrive\Repositories\VisualStudio\MusicManagerV2\MusicManager\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Javan\OneDrive\Repositories\VisualStudio\MusicManagerV2\MusicManager\bin\Debug\taglib-sharp.dll
+C:\Users\Javan\OneDrive\Repositories\VisualStudio\MusicManagerV2\MusicManager\bin\Debug\Id3.pdb
+C:\Users\Javan\OneDrive\Repositories\VisualStudio\MusicManagerV2\MusicManager\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Javan\OneDrive\Repositories\VisualStudio\MusicManagerV2\MusicManager\obj\Debug\MusicManager.csprojResolveAssemblyReference.cache
+C:\Users\Javan\OneDrive\Repositories\VisualStudio\MusicManagerV2\MusicManager\obj\Debug\MusicManager.frmMusicManager.resources
+C:\Users\Javan\OneDrive\Repositories\VisualStudio\MusicManagerV2\MusicManager\obj\Debug\MusicManager.frmSettings.resources
+C:\Users\Javan\OneDrive\Repositories\VisualStudio\MusicManagerV2\MusicManager\obj\Debug\MusicManager.Properties.Resources.resources
+C:\Users\Javan\OneDrive\Repositories\VisualStudio\MusicManagerV2\MusicManager\obj\Debug\MusicManager.csproj.GenerateResource.Cache
+C:\Users\Javan\OneDrive\Repositories\VisualStudio\MusicManagerV2\MusicManager\obj\Debug\MusicManager.csproj.CoreCompileInputs.cache
+C:\Users\Javan\OneDrive\Repositories\VisualStudio\MusicManagerV2\MusicManager\obj\Debug\MusicManager.exe
+C:\Users\Javan\OneDrive\Repositories\VisualStudio\MusicManagerV2\MusicManager\obj\Debug\MusicManager.pdb
+C:\Users\Javan\OneDrive\Repositories\VisualStudio\MusicManager\MusicManager\obj\Debug\MusicManager.csproj.CopyComplete
+C:\Users\jpoirier\Desktop\MusicManager\MusicManager\bin\Debug\MusicManager.exe.config
+C:\Users\jpoirier\Desktop\MusicManager\MusicManager\bin\Debug\MusicManager.exe
+C:\Users\jpoirier\Desktop\MusicManager\MusicManager\bin\Debug\MusicManager.pdb
+C:\Users\jpoirier\Desktop\MusicManager\MusicManager\bin\Debug\Id3.dll
+C:\Users\jpoirier\Desktop\MusicManager\MusicManager\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\jpoirier\Desktop\MusicManager\MusicManager\bin\Debug\taglib-sharp.dll
+C:\Users\jpoirier\Desktop\MusicManager\MusicManager\bin\Debug\Id3.pdb
+C:\Users\jpoirier\Desktop\MusicManager\MusicManager\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\jpoirier\Desktop\MusicManager\MusicManager\obj\Debug\MusicManager.csprojResolveAssemblyReference.cache
+C:\Users\jpoirier\Desktop\MusicManager\MusicManager\obj\Debug\MusicManager.frmMusicManager.resources
+C:\Users\jpoirier\Desktop\MusicManager\MusicManager\obj\Debug\MusicManager.frmSettings.resources
+C:\Users\jpoirier\Desktop\MusicManager\MusicManager\obj\Debug\MusicManager.Properties.Resources.resources
+C:\Users\jpoirier\Desktop\MusicManager\MusicManager\obj\Debug\MusicManager.csproj.GenerateResource.cache
+C:\Users\jpoirier\Desktop\MusicManager\MusicManager\obj\Debug\MusicManager.csproj.CoreCompileInputs.cache
+C:\Users\jpoirier\Desktop\MusicManager\MusicManager\obj\Debug\MusicManager.csproj.CopyComplete
+C:\Users\jpoirier\Desktop\MusicManager\MusicManager\obj\Debug\MusicManager.exe
+C:\Users\jpoirier\Desktop\MusicManager\MusicManager\obj\Debug\MusicManager.pdb
