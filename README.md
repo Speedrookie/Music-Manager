@@ -1,4 +1,4 @@
-# MusicManager
+# Music Manager
 Parses music files for artist and song name. Sets and saves checked filenames and information in music library with appropriate meta tags.
 
 ![Screenshot](Images/Example.PNG)
